@@ -1,0 +1,95 @@
+{
+  "icons": [
+    {
+      "src": "icons/ios/icon_1024x1024.496f96c8d411074f78b81d49546d4846.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/ios/icon_180x180.5134c859cac78d112ec7be29567bf67c.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/ios/icon_152x152.b0de7acd765047d2f4d52320e628b861.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/ios/icon_144x144.ba334893cdcee081079151033188ee4b.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/ios/icon_120x120.5dbb8023af72fa5dc5d2582f3175cc9e.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/ios/icon_114x114.16019337db22b8e2e5af8d9f156864dc.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/ios/icon_76x76.15b1b6bdd3b95df2519c430caf4d483d.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/ios/icon_72x72.e589ab8e69a2b0a2a70cc8e9e8378aa6.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/ios/icon_60x60.ba3b53313a968555bd7895c6386074b6.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/ios/icon_57x57.f3147cdde1cfbf1408e84d320bea5d12.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_512x512.75b3b71989f745425f7e6c0bd7a56e69.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/android/icon_384x384.cf17678857377365e71b2f6d09aae8b3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_256x256.2395bafc9a47509d8cd3e4ad7b55db14.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_192x192.31a64c1fe792ce15a64becb7ff9d53e0.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_128x128.b041e3ea3c0ba16ac1d8170f37313763.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/android/icon_96x96.da060bed7fa23842c067eafb96b9b743.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "KickOff - Get Latest Football Info",
+  "short_name": "KickOff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "PWA-Submission-3",
+  "background_color": "#E64A19",
+  "theme_color": "#E64A19",
+  "theme-color": "#E64A19",
+  "gcm_sender_id": "895812094844"
+}
